@@ -1,5 +1,5 @@
 # interview-question-rivers-count
-This is my solution to an interview question I once was asked.
+This is my solution to an interview question I once was asked. I couldn't solved it in the time allocated which was a few minutes. I decided to give it a shot the next day in a more relaxing setting.
 
 Here's the description:
 -----------------------
