@@ -21,7 +21,7 @@ For example, given the following matrix:
            [ 1 0 1 1 0 ]
 
 The answer should be `[1, 2, 2, 2, 5]` because:
-1) there's a river of size 1 at this coordinate: `(0, 3)` <- 0 being the row index, and 3 being the column index for which there's a cell with the value of 1
+1) there's a river of size 1 at this coordinate: `(0,3)` <- `0` being the row index, and `3` being the column index for which there's a cell with the value of 1
 2) there's a first river of size 2 at these coordinates: `(0,0)` & `(1,0)`
 3) there's a second river of size 2 at these coordinates: `(3,0)` & `(4,0)`
 4) there's a third river of size 2 at these coordinates: `(2,4)` & `(3,4)`
